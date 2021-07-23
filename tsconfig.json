@@ -3,7 +3,7 @@
         "module": "commonjs",
         "lib": ["es2017", "dom"],
         "target": "es6",
-        "outDir": "lib",
+        "outDir": "public",
         "strict": false,
         "downlevelIteration": true,
         "noUnusedLocals": true,
